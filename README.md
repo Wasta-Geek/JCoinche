@@ -6,10 +6,13 @@ Synopsis
 =
 A java application [client/server] for the "jeu de coinche"   
 Project's goals:
+-
 - Discover Java language
 - Use skills of POO in a client / server project
-- Integration of existing tools : library, build tools etc
+- Integration of existing tools : library, build tools etc    
+
 Game specification:
+-
 - Start at 4 clients connected
 - Endless rounds
 
